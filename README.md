@@ -20,7 +20,12 @@ This biomedical engineering project consisted of developing a system capable of 
 License Creative-Common (CC 4.0)
 
 **Author contact**
+
 Alvaro Acosta
+
 C\ Ramon Trias Fargas 25-27,
-08 Barcelona, Spain
+
+08005 Barcelona, Spain
+
 alvaro.acosta01@estudiant.upf.edu
+
