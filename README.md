@@ -19,9 +19,9 @@ It is common knowledge that one of the most important applications of biomedical
 
 This field has a great future in medicine. An important application would be for instance "Enhanced Prosthetic Control": Continued research in pattern recognition algorithms, machine learning, and neural interfaces may lead to more precise and intuitive control of artificial limbs. This could enable users to perform complex tasks and movements with greater ease and dexterity [2]. But this is just an example of all the application that this field has and the significant impact this would have in our society.
 
-**My project**
+**My Game**
 
-
+Once we designed and built the circuit to obtain the electric signal through the electrodes, we amplified and monitored it in MATLAB, also transforming it into a mouse movement when moving the arm either to the right or left. Then, we created the game that is uploaded in this repository in order to implement it into a practical application. It consists of a character that tries to avoid the negative falling pieces and tries to catch the positive ones until it arrives to a certain number. Even though it might seem a simple activity, it has let me learn how to create circuits and obtain electrical signals from the muscles and also learn to implement those signals into a practical way, which I find enriching and a nice training for actual biomedical engineering application that I will carry out in the future.
 
 **Bibliography**
 
