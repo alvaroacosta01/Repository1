@@ -11,6 +11,10 @@ Email: alvaro.acosta01@estudiant.upf.edu
 
 This biomedical engineering project consisted of developing a system capable of providing control signals from electromyographic signals picked up at the surface of the forearm with electrodes. These control signals could, for instance, be used to control the actions of a hypothetical prosthetic hand. Moreover, once we already had the circuit done, we had to amplify these signals and use that information in a practical application as, for example, a videogame controllated with our arms, which had to be also programmed by us.
 
+**State of the art**
+
+It is common knowledge that one of the most important applications of biomedical engineering are the creation and implementation of artificial limbs. Nowadays, many scientist are implementing  neuronal and muscular electrical signals in prosthetics control, in order to improve the patient's life. Even though there are many studies regarding this topic, there is a need for alternative methods to improve the controllability and functionality of prosthetic devices, for instance through Myoelectric signals (MES) implementation [1].
+
 **Bibliography**
 
 [1] N. Jiang, S. Dosen, K. -R. Muller and D. Farina, "Myoelectric Control of Artificial Limbs—Is There a Need to Change Focus? [In the Spotlight]," in IEEE Signal Processing Magazine, vol. 29, no. 5, pp. 152-150, Sept. 2012, doi: 10.1109/MSP.2012.2203480.
