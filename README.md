@@ -15,7 +15,7 @@ This biomedical engineering project consisted of developing a system capable of 
 
 [1] N. Jiang, S. Dosen, K. -R. Muller and D. Farina, "Myoelectric Control of Artificial Limbs—Is There a Need to Change Focus? [In the Spotlight]," in IEEE Signal Processing Magazine, vol. 29, no. 5, pp. 152-150, Sept. 2012, doi: 10.1109/MSP.2012.2203480.
 
-
+[2] Purushothaman Geethanjali (2016) Myoelectric control of prosthetic hands: state-of-the-art review, Medical Devices: Evidence and Research, 9:, 247-255, DOI: 10.2147/MDER.S91102
 
 License Creative-Common (CC 4.0)
 
