@@ -14,3 +14,13 @@ This biomedical engineering project consisted of developing a system capable of 
 **Bibliography**
 
 [1] N. Jiang, S. Dosen, K. -R. Muller and D. Farina, "Myoelectric Control of Artificial Limbs—Is There a Need to Change Focus? [In the Spotlight]," in IEEE Signal Processing Magazine, vol. 29, no. 5, pp. 152-150, Sept. 2012, doi: 10.1109/MSP.2012.2203480.
+
+
+
+License Creative-Common (CC 4.0)
+
+**Author contact**
+Alvaro Acosta
+C\ Ramon Trias Fargas 25-27,
+08 Barcelona, Spain
+alvaro.acosta01@estudiant.upf.edu
