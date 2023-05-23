@@ -15,11 +15,19 @@ This biomedical engineering project consisted of developing a system capable of 
 
 It is common knowledge that one of the most important applications of biomedical engineering are the creation and implementation of artificial limbs. Nowadays, many scientist are implementing  neuronal and muscular electrical signals in prosthetics control, in order to improve the patient's life. Even though there are many studies regarding this topic, there is a need for alternative methods to improve the controllability and functionality of prosthetic devices, for instance through Myoelectric signals (MES) implementation [1].
 
+**Future applications**
+
+This field has a great future in medicine. An important application would be for instance "Enhanced Prosthetic Control": Continued research in pattern recognition algorithms, machine learning, and neural interfaces may lead to more precise and intuitive control of artificial limbs. This could enable users to perform complex tasks and movements with greater ease and dexterity [2]. But this is just an example of all the application that this field has and the significant impact this would have in our society.
+
+**My project**
+
+
+
 **Bibliography**
 
-[1] N. Jiang, S. Dosen, K. -R. Muller and D. Farina, "Myoelectric Control of Artificial Limbs—Is There a Need to Change Focus? [In the Spotlight]," in IEEE Signal Processing Magazine, vol. 29, no. 5, pp. 152-150, Sept. 2012, doi: 10.1109/MSP.2012.2203480.
+[1] Purushothaman Geethanjali (2016) Myoelectric control of prosthetic hands: state-of-the-art review, Medical Devices: Evidence and Research, 9:, 247-255, DOI: 10.2147/MDER.S91102
 
-[2] Purushothaman Geethanjali (2016) Myoelectric control of prosthetic hands: state-of-the-art review, Medical Devices: Evidence and Research, 9:, 247-255, DOI: 10.2147/MDER.S91102
+[2] N. Jiang, S. Dosen, K. -R. Muller and D. Farina, "Myoelectric Control of Artificial Limbs—Is There a Need to Change Focus? [In the Spotlight]," in IEEE Signal Processing Magazine, vol. 29, no. 5, pp. 152-150, Sept. 2012, doi: 10.1109/MSP.2012.2203480.
 
 License Creative-Common (CC 4.0)
 
